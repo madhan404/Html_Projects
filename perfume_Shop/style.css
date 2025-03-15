@@ -1,0 +1,93 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    font-size: 20px;
+    margin-left: 60%;
+    color: grey;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.searchbar{
+    font-size: 30px;
+    width: 60%;
+    padding: 14px;
+}
+.search{
+    text-align: center;
+    padding: 40px;
+}
+
+.products{
+    /* border: solid black 4px; */
+    display: inline;
+    /* padding: 100px; */
+    margin-left: 350px;
+}
+p{
+    text-align: center;
+}
+.send1{
+    display: inline-block;
+    border: solid black 5px;
+    width: 220px;
+    margin: 15px;
+}
+img{
+    display: inline;
+    width: 220px;
+    height: 300px;
+    /* border-radius: 80px; */
+}
+.but{
+    padding: 8px;
+    text-align: center;
+    
+}
+.btn{
+    display: inline-block;
+    width: 90px;
+height: 40px;
+    border-radius: 10px;
+    border-color: aqua;
+    background-color: goldenrod;
+    color: wheat;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.abt{
+    text-align: center;
+    padding: 30px;
+}
+.contactus{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.cts{
+    padding-top: 30px;
+}
+table{
+    display: block;
+    background-color: black;
+    padding-left: 45%;
+    color: white;
+}
+.inpp{
+    margin-left: 120%;
+}
+
